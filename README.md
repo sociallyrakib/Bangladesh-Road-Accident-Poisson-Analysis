@@ -17,9 +17,9 @@ Bangladesh Passenger Welfare Association, Annual Road Accident Report 2025
 Total accidents in 2025: 6,729 → daily average = 6,729 ÷ 365 ≈ 18
 
 ## Limitations
-- Data compiled from media reports only — many accidents go unreported
+- Data compiled from media reports only . many accidents go unreported
 - WHO estimates actual fatalities far higher than official figures
-- Poisson assumes accidents are independent — ignores seasonality (Eid, rain, night)
+- Poisson assumes accidents are independent .ignores seasonality (Eid, rain, night)
 - Daily average smooths out real variation across days
 - Not suitable for policy making without BRTA administrative data and hospital records
 
